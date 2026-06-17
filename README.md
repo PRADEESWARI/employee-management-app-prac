@@ -1,1 +1,3 @@
-# employee-management-app-prac
+# Employee Management App
+
+Git Learning Project
