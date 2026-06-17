@@ -1,2 +1,2 @@
 def login():
-    pass
+    print("Login Successful")
